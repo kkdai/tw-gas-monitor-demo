@@ -34,6 +34,10 @@
 *   mongoose : 5.2.0 <br />
 *   request : 2.87.0 <br />
 
+### 部署你自己的油價機器人
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### 補充
 如果對於此程式有任何疑問或是建議的歡迎填寫問卷 謝謝!!
 [This link](https://docs.google.com/forms/d/1SKmggTwMEnMfcWS0oGxE2n6gixcUm63ZIOUN8DByMw4/edit)
